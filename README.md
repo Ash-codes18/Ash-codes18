@@ -47,6 +47,11 @@ Here are some ideas to get you started:
 	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-codes18&theme=radical)
 	
 </div>
+<br>
+<br>
+<p><h1 align="left"> <strong>T O O L S</strong></h1>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></p></div>
+<div>
 
 <br> <br><br><br>
 <p ><h1 align="right"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
@@ -61,15 +66,14 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<div align="center"  class="icons-social" style="margin-left: 10px;">
- <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ashmit-mehta">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Ash-codes18">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/mehta.ashmit">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
+<div align="center class="icons-social" style="margin-left: 10px;">"<a href="https://linkedin.com/in/ashmit-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmit-mehta" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20599226/ashmit-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20599226/ashmit-mehta" height="30" width="40" /></a>
+<a href="https://fb.com/ashmit.mehta.142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashmit.mehta.142" height="30" width="40" /></a>
+<a href="https://instagram.com/mehta.ashmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehta.ashmit" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc24ozjupfgljtzgshlnh5aw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc24ozjupfgljtzgshlnh5aw" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ash_codes00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ash_codes00" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rmehta_rahul2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rmehta_rahul2" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ashmit_mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashmit_mehta" height="30" width="40" /></a>
+<a href="https://discord.gg/Ashmit#1879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ashmit#1879" height="30" width="40" /></a></div>
 </p>
+</center>
