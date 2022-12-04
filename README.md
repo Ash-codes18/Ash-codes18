@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 <h1><strong>H E L L O</strong></h1>
 <h3><strong>Nice to meet you!</strong></h3>
 
-<br>
 <h3>My name is Ashmit, I'm a software engineer</h3>
 <br>
 <br>
@@ -55,7 +54,7 @@ Here are some ideas to get you started:
 <div style="margin-left: 100px;">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qgud5fpnqqswx4pfad4e032i7&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-<img src="https://github.com/Ash-codes18/Ash-codes18-/blob/main/Images/2013HeadphonesPA-15924333100713-1.jpg" align="right" width="50%">
+<img src="https://github.com/Ash-codes18/Ash-codes18-/blob/main/Images/2013HeadphonesPA-15924333100713-1.jpg" align="right" width="345" height="750">
 </div>
 <br> <br><br><br>
 <h1 align="center"><strong> Connect with me </h1></strong>
