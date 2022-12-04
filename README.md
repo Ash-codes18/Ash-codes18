@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <br>
 <br>
 - Pursuing B.Tech. in CSE at LPU 2026' batch.
-
+<br>
 - Currently studying Python and Web Dev.
-
+<br>
 - Contact me at  **rmehta.rahul2@gmail.com**
-
+<br>
 - Know about my experiences <a href="https://github.com/Ash-codes18/CV" target="blank">Resume</a></p>
 </div>
 <br><br>
