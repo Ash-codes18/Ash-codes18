@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 <img align="left" height:75%; width:75; src="https://i.ibb.co/pyLNVkL/Romantic-Tag-for-Couples-Made-with-Poster-My-Wall.jpg">
 
  <p align="right">
+	 
+	 
+	 
+	 
+	 
 
 - Pursuing B.Tech. in CSE at LPU 2026' batch.
 
