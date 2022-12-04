@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </div>
 <br><br>
 <div>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <p><h1><strong>S T A T S</strong> </h1></p>
 <div align="left">
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <center>
 <p align="center">
 
-<div align="center class="icons-social" style="margin-left: 10px;"><a href="https://linkedin.com/in/ashmit-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmit-mehta" height="30" width="40" /></a>
+<div align="center" class="icons-social" style="margin-left: 10px;"><a href="https://linkedin.com/in/ashmit-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmit-mehta" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20599226/ashmit-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20599226/ashmit-mehta" height="30" width="40" /></a>
 <a href="https://fb.com/ashmit.mehta.142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashmit.mehta.142" height="30" width="40" /></a>
 <a href="https://instagram.com/mehta.ashmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehta.ashmit" height="30" width="40" /></a>
