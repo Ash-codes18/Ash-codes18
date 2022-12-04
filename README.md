@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 
  <p align="right">
 	 
-	 
-	 
-	 
-	 
-
+<br>
+<br>
+<br>
+<br>
 - Pursuing B.Tech. in CSE at LPU 2026' batch.
 
 - Currently studying Python and Web Dev.
