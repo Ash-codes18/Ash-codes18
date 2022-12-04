@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>My name is Ashmit, I'm a software engineer</h3>
 <br>
 <br>
-<img src="https://github.com/Ash-codes18/Ash-codes18-/blob/main/Images/image%207.png">
+<img src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/image%207.png">
 <br>
 <br>
 <!-- <img src="https://i.ibb.co/pyLNVkL/Romantic-Tag-for-Couples-Made-with-Poster-My-Wall.jpg" alt="Romantic-Tag-for-Couples-Made-with-Poster-My-Wall" border="0"> -->
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <div style="margin-left: 100px;">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qgud5fpnqqswx4pfad4e032i7&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-<img src="https://github.com/Ash-codes18/Ash-codes18-/blob/main/Images/2013HeadphonesPA-15924333100713-1.jpg" align="right" width="445" height="450">
+<img src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/head-phones.jpeg" align="right" width="445" height="450">
 </div>
 <br> <br><br><br>
 <h1 align="center"><strong> Connect with me </h1></strong>
