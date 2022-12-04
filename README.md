@@ -39,17 +39,13 @@ Here are some ideas to get you started:
 <div>
 <br><br><br><br><br><br><br><br>
 <p><h1><strong>S T A T S</strong> </h1></p>
-<div align="left">
+<div align="center">
 
 
 <!-- <img align ="left" alt="Ash-codes18's Github Stats" src="https://github-readme-stats-8om1-ash-codes18.vercel.app/api?username=Ash-codes18&show_icons=true&hide_border=true"> -->
 ![Ash-codes18's STATS](https://github-readme-stats.vercel.app/api?username=Ash-codes18&show_icons=true&theme=radical)
-	<div class="ok" align="right">
 	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-codes18&theme=radical)
-	</div>
-	<div class="ok" align="center">
-		![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ash-codes18&theme=dark&background=000000)](https://git.io/streak-stats)
-	</div>
+	![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ash-codes18&theme=dark&background=000000)(https://git.io/streak-stats)
 </div>
 <br>
 <br>
