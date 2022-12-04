@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 
 
 <!-- <img align ="left" alt="Ash-codes18's Github Stats" src="https://github-readme-stats-8om1-ash-codes18.vercel.app/api?username=Ash-codes18&show_icons=true&hide_border=true"> -->
-![Ash-codes18's STATS](https://github-readme-stats.vercel.app/api?username=Ash-codes18&show_icons=true&theme=radical)
-	
+![Ash-codes18's STATS](https://github-readme-stats.vercel.app/api?username=Ash-codes18&show_icons=true&theme=radical)	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-codes18&theme=radical)
 	
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ash-codes18&theme=dark&background=000000)
