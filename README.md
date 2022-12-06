@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![Ash-codes18's STATS](https://github-readme-stats.vercel.app/api?username=Ash-codes18&show_icons=true&theme=radical)	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-codes18&theme=radical)
 	
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ash-codes18&theme=dark&background=000000)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ash-codes18&theme=monokai-metallian&hide_border=true)
 </div>
 <br>
 <br>
