@@ -88,4 +88,4 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/Ashmit#1879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ashmit#1879" height="30" width="40" /></a></div>
 </p>
 </center>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=github-readme-stats&theme=gotham)](https://github.com/Ash-codes18/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
