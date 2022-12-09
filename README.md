@@ -72,6 +72,13 @@ Here are some ideas to get you started:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qgud5fpnqqswx4pfad4e032i7&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 <img src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/head-phones.jpeg" align="right" width="445" height="450">
 </div>
+<br>
+<br>
+<p><h1 align="left"> <strong>T O P  R E P O S I T O R I E S</strong></h1>
+<br> <br>
+<center>
+	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=GYM&theme=gotham)](https://github.com/Ash-codes18/GYM)
+</center>
 <br> <br><br><br>
 <h1 align="center"><strong> Connect with me </h1></strong>
 <center>
