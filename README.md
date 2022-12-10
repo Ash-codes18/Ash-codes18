@@ -81,7 +81,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=GYM&theme=gotham" />
 </a>
 <a href="https://github.com/Ash-codes18/site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=site&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=Ash-Site&theme=gotham" />
 </a>
 <!-- 	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=GYM&theme=gotham)](https://github.com/Ash-codes18/GYM) -->
 <br> <br><br><br>
