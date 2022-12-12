@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 <!-- <img src="https://i.ibb.co/pyLNVkL/Romantic-Tag-for-Couples-Made-with-Poster-My-Wall.jpg" alt="Romantic-Tag-for-Couples-Made-with-Poster-My-Wall" border="0"> -->
 <div>
-<img align="left" src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/hal.jpg" height="75%" width="75%">
+<img align="left" src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/hal.jpg" height="65%" width="65%">
 
  <p align="right">
 	 
