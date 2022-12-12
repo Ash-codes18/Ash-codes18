@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
  <p align="right">
 	 
-<br><br><br><br><br>
+<br><br><br>
 
 - 🔭 Pursuing B.Tech. in CSE at LPU 2026' batch.
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </div>
 <br><br>
 <div>
-<br><br><br><br><br>
+<br><br><br>
 <p><h1><strong>S T A T S</strong> </h1></p>
 <div align="center">
 
