@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 <br>
 <!-- <img src="https://i.ibb.co/pyLNVkL/Romantic-Tag-for-Couples-Made-with-Poster-My-Wall.jpg" alt="Romantic-Tag-for-Couples-Made-with-Poster-My-Wall" border="0"> -->
 <div>
-<img align="left" src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/hal.jpg" height="75%" width="65%">
+<img align="left" src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/hal.jpg" height="85%" width="65%">
 
  <p align="right">
 	 
-<br><br><br>
+<br><br><br><br><br>
 
 - 🔭 Pursuing B.Tech. in CSE at LPU 2026' batch.
 
