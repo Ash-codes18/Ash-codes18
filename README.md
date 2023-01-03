@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 <h1><strong>H E L L O</strong></h1>
 <h3><strong>Nice to meet you!</strong></h3>
-
-![Profile views](https://gpvc.arturio.dev/Ash-codes18) 
 <p align="right">
+![Profile views](https://gpvc.arturio.dev/Ash-codes18)</p> 
+<!-- <p align="right"> -->
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Ash-codes18" alt="visitors"/> </p> -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=100&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Ashmit;I'm+a+Software+Engineer+" alt="Typing SVG" /></a> </p>
