@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Marck+Script&weight=600&size=100&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Ashmit;I'm+a+Software+Engineer+" alt="Typing SVG" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Marck+Script&weight=600&size=100&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Ashmit;I'm+a+Software+Engineer+" alt="Typing SVG" /></a> </p>
 <br>
 <br>
 <img src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/image%207.png">
