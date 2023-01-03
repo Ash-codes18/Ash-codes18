@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 <h1><strong>H E L L O</strong></h1>
 <h3><strong>Nice to meet you!</strong></h3>
 <p align="right">
-![Profile views](https://gpvc.arturio.dev/Ash-codes18)</p> 
+![Profile views](https://gpvc.arturio.dev/Ash-codes18)
+</p> 
 <!-- <p align="right"> -->
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Ash-codes18" alt="visitors"/> </p> -->
 <p align="center">
