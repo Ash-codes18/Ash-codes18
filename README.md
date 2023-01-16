@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1><strong>H E L L O</strong></h1>
+<h1><strong>H E L L O <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 /></strong></h1>
 <h3><strong>Nice to meet you!</strong></h3>
 <!-- <p align="right"> -->
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Ash-codes18" alt="visitors"/> </p> -->
@@ -97,4 +97,7 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/Ashmit#1879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ashmit#1879" height="30" width="40" /></a></div>
 </p>
 </center>
+<br>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
