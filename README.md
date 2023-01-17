@@ -71,6 +71,10 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
+<p><h1 align="left"> <strong>T R O P H I E S</strong></h1>
+<br>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=Ash-codes18&theme=juicyfresh" height="325">
 <p><h1 align="left"> <strong>T O P &nbsp; R E P O S I T O R I E S</strong></h1>
 <br>
 
@@ -80,11 +84,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/Ash-codes18/site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=Ash-Site&theme=gotham" />
 </a>
-<br>
-<br>
-<p><h1 align="left"> <strong>T R O P H I E S</strong></h1>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ash-codes18&theme=juicyfresh" height="325">
 <!-- 	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=GYM&theme=gotham)](https://github.com/Ash-codes18/GYM) -->
 <br> <br><br><br>
 <h1 align="center"><strong> Connect with me </h1></strong>
