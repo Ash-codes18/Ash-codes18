@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 <h1><strong>H E L L O <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 /></strong></h1>
 <h3><strong>Nice to meet you!</strong></h3>
  <p align="right"> 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Ash-codes18" alt="visitors"/> </p> 
+
+![](https://vbr.wocr.tk/badge?page_id=visitor-badge-reloaded-visitors&color=f75c7e&style=for-the-badge&logo=Github)
+<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Ash-codes18" alt="visitors"/> </p>  -->
 <br>
 <br>
 <p align="center">
@@ -25,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/image%207.png">
 <br>
 <br>
-<img src="https://i.ibb.co/pyLNVkL/Romantic-Tag-for-Couples-Made-with-Poster-My-Wall.jpg" alt="Romantic-Tag-for-Couples-Made-with-Poster-My-Wall" border="0"> 
+<!-- <img src="https://i.ibb.co/pyLNVkL/Romantic-Tag-for-Couples-Made-with-Poster-My-Wall.jpg" alt="Romantic-Tag-for-Couples-Made-with-Poster-My-Wall" border="0">  -->
 <div>
 <img align="left" src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/ok.jpg" height="85%" width="65%">
 
