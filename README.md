@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 <h1><strong>H E L L O <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 /></strong></h1>
 <h3><strong>Nice to meet you!</strong></h3>
- <p align="right"> 
+ <div align="right"> 
 	
 ![](https://vbr.wocr.tk/badge?page_id=visitor-badge-reloaded-visitors&color=f75c7e&style=for-the-badge&logo=Github)
-</p>
+</div>
 
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Ash-codes18" alt="visitors"/> -->  
 <br>
