@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3><strong>Nice to meet you!</strong></h3>
  <div align="right"> 
 	
-![](https://vbr.wocr.tk/badge?page_id=visitor-badge-reloaded-visitors&color=f75c7e&style=for-the-badge&logo=Github)
+![](https://vbr.wocr.tk/badge?page_id=https://github.com/Ash-codes18&color=f75c7e&style=for-the-badge&logo=Github)
 </div>
 
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Ash-codes18" alt="visitors"/> -->  
