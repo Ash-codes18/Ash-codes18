@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-![Ashmit Mehta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashzen&theme=dracula&hide_border=true&show_icons=true)
+<!-- ![Ashmit Mehta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashzen&theme=dracula&hide_border=true&show_icons=true) -->
 	
 	
 	
