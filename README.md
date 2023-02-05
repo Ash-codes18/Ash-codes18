@@ -53,10 +53,13 @@ Here are some ideas to get you started:
 
 
 <!-- <img align ="left" alt="Ash-codes18's Github Stats" src="https://github-readme-stats-8om1-ash-codes18.vercel.app/api?username=Ash-codes18&show_icons=true&hide_border=true"> -->
-![Ash-codes18's STATS](https://github-readme-stats.vercel.app/api?username=Ash-codes18&show_icons=true&theme=dracula&count_private=true)	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-codes18&theme=dracula&langs_count=9)
+![Ash-codes18's STATS](https://github-readme-stats.vercel.app/api?username=Ash-codes18&show_icons=true&theme=dracula&count_private=true&hide_border=true)	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-codes18&theme=dracula&langs_count=9&hide_border=true)
 	
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ash-codes18&theme=monokai-metallian&hide_border=true)
+	
+
+![Ashmit Mehta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashzen&theme=dracula&hide_border=true)
 </div>
 <br>
 <br>
