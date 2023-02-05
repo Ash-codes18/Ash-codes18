@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - 🔭 Pursuing B.Tech. in CSE at LPU 2026' batch.
 
-- 🌱 Currently studying Python and Front end Dev.
+- 🌱 Currently studying C and MySQL.
 
 - 📫 Contact me at  **rmehta.rahul2@gmail.com**
 
