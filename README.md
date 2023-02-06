@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <h1><strong>H E L L O <img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 /></strong></h1>
 <h3><strong>Nice to meet you!</strong></h3>
@@ -122,3 +120,8 @@ Here are some ideas to get you started:
 <br>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
