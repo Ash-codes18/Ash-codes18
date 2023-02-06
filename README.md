@@ -121,7 +121,9 @@ Here are some ideas to get you started:
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<br>
 
+<br><br>
+<details>
+    <summary>📈 This Week's Coding Stats</summary>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
