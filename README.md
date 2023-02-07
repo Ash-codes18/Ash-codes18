@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 
 <br><br>
 <details>
-    <summary>📈 This Week's Coding Stats</summary>
+    <summary><center><h1><strong><em>📈 This Week's Coding Stats</strong></em></h1></center></summary>
 	<br><br><br>
 <!--START_SECTION:waka-->
 	
