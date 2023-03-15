@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44.8%20thousand%20lines%20of%20code-blue)
 
@@ -172,13 +172,13 @@ Sunday                   152 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        3 hrs 57 mins       █████████████████████░░░░   83.57 % 
-SQL                      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+C                        2 hrs 39 mins       ████████████████████░░░░░   79.88 % 
+SQL                      36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Windows                  4 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -194,5 +194,5 @@ SQL                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2023 16:30:20 UTC
+ Last Updated on 15/03/2023 01:23:47 UTC
 <!--END_SECTION:waka-->
