@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <p><h1 align="left"> <strong>T R O P H I E S</strong></h1>
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ash-codes18&theme=gotham" height="325">
+<img src="https://github-profile-trophy.vercel.app/?username=Ash-codes18&theme=juicyfresh&no-frame=true" height="325">
 <br>
 <br>
 
