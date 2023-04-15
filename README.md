@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <p><h1 align="left"> <strong>T R O P H I E S</strong></h1>
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ash-codes18&theme=gowtham" height="325">
+<img src="https://github-profile-trophy.vercel.app/?username=Ash-codes18&theme=gotham" height="325">
 <br>
 <br>
 
@@ -95,10 +95,10 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://github.com/Ash-codes18/site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=C&theme=gowtham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=C&theme=gotham" />
 </a>
 <a href="https://github.com/Ash-codes18/GYM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=GYM&theme=gowtham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=GYM&theme=gotham" />
 </a>
 
 <!-- 	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=GYM&theme=gotham)](https://github.com/Ash-codes18/GYM) -->
