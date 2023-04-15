@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<a href="https://github.com/Ash-codes18/site">
+<a href="https://github.com/Ash-codes18/C">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=C&theme=gotham" />
 </a>
 <a href="https://github.com/Ash-codes18/GYM">
