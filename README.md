@@ -94,12 +94,13 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+<a href="https://github.com/Ash-codes18/site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=Real-Estate-Advisor&theme=gotham" />
+</a>
 <a href="https://github.com/Ash-codes18/GYM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=GYM&theme=gotham" />
 </a>
-<a href="https://github.com/Ash-codes18/site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=Ash-Site&theme=gotham" />
-</a>
+
 <!-- 	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=GYM&theme=gotham)](https://github.com/Ash-codes18/GYM) -->
 <br> <br><br><br>
 <h1 align="center"><strong> Connect with me </h1></strong>
