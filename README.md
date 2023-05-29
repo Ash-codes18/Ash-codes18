@@ -173,10 +173,10 @@ Sunday                   167 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -192,5 +192,5 @@ SQL                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2023 16:19:17 UTC
+ Last Updated on 29/05/2023 01:23:23 UTC
 <!--END_SECTION:waka-->
