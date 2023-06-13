@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - 🔭 Pursuing B.Tech. in CSE at LPU 2026' batch.
 
-- 🌱 Currently studying C and MySQL.
+- 🌱 Currently studying C++.
 
 - 📫 Contact me at  **rmehta.rahul2@gmail.com**
 
