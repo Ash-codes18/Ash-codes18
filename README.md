@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=100&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Ashmit;I'm+a+Developer" alt="Typing SVG" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=100&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Ashmit;I'm+a+Software+Engineer+" alt="Typing SVG" /></a> </p>
 <br>
 <br>
 <img src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/image%207.png">
@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 
 - 🔭 Pursuing B.Tech. in CSE at LPU 2026' batch.
 
-- 🌱 Currently studying DSA in C++.
+- 🌱 Currently studying C++.
 
-- 📫 Contact me at  **amehta.ashmit2@gmail.com**
+- 📫 Contact me at  **rmehta.rahul2@gmail.com**
 
-- ⚡ Know about my experiences <a href="ashzen.pages.dev/about" target="blank">Resume</a></p>
+- ⚡ Know about my experiences <a href="https://github.com/Ash-codes18/CV" target="blank">Resume</a></p>
 </div>
 <br><br>
 <div>
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 </a>
 
 <!-- 	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ash-codes18&repo=GYM&theme=gotham)](https://github.com/Ash-codes18/GYM) -->
-<br> <br><br><br>
+<br> <br><br><br> -->
 <h1 align="center"><strong> Connect with me </h1></strong>
 <center>
 <p align="center">
@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 
 <br><br>
 <details>
-    <summary><h1><strong><em>📈 This Week's Coding Stats</strong></em></h1</summary>
+    <summary><center><h1><strong><em>📈 This Week's Coding Stats</strong></em></h1></center></summary>
 	<br><br>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2043%20mins-blue)
@@ -199,4 +199,3 @@ SQL                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 16/09/2023 08:18:25 UTC
 <!--END_SECTION:waka-->
-</details>
