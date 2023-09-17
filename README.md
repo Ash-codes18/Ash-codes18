@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 - 📫 Contact me at  **amehta.ashmit2@gmail.com**
 
-- ⚡ Know about my experiences <a href="ashzen.pages.dev/about" target="blank">Resume</a></p>
+- ⚡ Know about my experiences [Resume](https://ashzen.pages.dev/about)
 </div>
 <br><br>
 <div>
