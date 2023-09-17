@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=100&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Ashmit;I'm+a+Software+Engineer+" alt="Typing SVG" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=100&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Ashmit;I'm+a+Developer+" alt="Typing SVG" /></a> </p>
 <br>
 <br>
 <img src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/image%207.png">
@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 
 - 🔭 Pursuing B.Tech. in CSE at LPU 2026' batch.
 
-- 🌱 Currently studying C++.
+- 🌱 Currently studying DSA in C++.
 
-- 📫 Contact me at  **rmehta.rahul2@gmail.com**
+- 📫 Contact me at  **amehta.ashmit2@gmail.com**
 
-- ⚡ Know about my experiences <a href="https://github.com/Ash-codes18/CV" target="blank">Resume</a></p>
+- ⚡ Know about my experiences <a href="ashzen.pages.dev/about" target="blank">Resume</a></p>
 </div>
 <br><br>
 <div>
@@ -128,6 +128,7 @@ Here are some ideas to get you started:
     <summary><center><h1><strong><em>📈 This Week's Coding Stats</strong></em></h1></center></summary>
 	<br><br>
 <!--START_SECTION:waka-->
+	    
 ![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
