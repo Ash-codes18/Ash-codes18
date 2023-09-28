@@ -128,9 +128,9 @@ Here are some ideas to get you started:
     <summary><center><h1><strong><em>📈 This Week's Coding Stats</strong></em></h1></center></summary>
 	<br><br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-472.2%20thousand%20lines%20of%20code-blue)
 
@@ -173,14 +173,14 @@ Sunday                   470 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.60 % 
-C++                      2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.58 % 
-JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Python                   4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.72 % 
+C++                      2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Bash                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 💻 Operating System: 
-Windows                  8 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -196,5 +196,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2023 16:21:19 UTC
+ Last Updated on 28/09/2023 01:07:59 UTC
 <!--END_SECTION:waka-->
