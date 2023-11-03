@@ -128,9 +128,9 @@ Here are some ideas to get you started:
     <summary><center><h1><strong><em>📈 This Week's Coding Stats</strong></em></h1></center></summary>
 	<br><br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 822 Contributions in the Year 2023
+> 🏆 823 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -173,14 +173,14 @@ Sunday                   507 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      3 hrs 55 mins       █████████████░░░░░░░░░░░░   52.09 % 
-Python                   3 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.50 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   5 hrs 34 mins       ███████████████░░░░░░░░░░   60.29 % 
+C++                      3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.40 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+C                        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Windows                  7 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -196,6 +196,6 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2023 08:20:46 UTC
+ Last Updated on 03/11/2023 01:09:14 UTC
 <!--END_SECTION:waka-->
 </details>
