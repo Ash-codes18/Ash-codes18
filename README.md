@@ -128,7 +128,7 @@ Here are some ideas to get you started:
     <summary><center><h1><strong><em>📈 This Week's Coding Stats</strong></em></h1></center></summary>
 	<br><br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -173,11 +173,12 @@ Sunday                   509 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 4 mins        █████████████████████████   99.82 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python                   7 hrs 3 mins        ██████████████████░░░░░░░   72.64 % 
+Other                    2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.36 % 
 
 💻 Operating System: 
-Windows                  8 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 4 mins        ██████████████████░░░░░░░   72.78 % 
+Linux                    2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.22 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -193,6 +194,6 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2023 01:09:33 UTC
+ Last Updated on 02/12/2023 08:19:31 UTC
 <!--END_SECTION:waka-->
 </details>
