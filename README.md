@@ -125,9 +125,10 @@ Here are some ideas to get you started:
 
 <br><br>
 <details>
-    <summary><center><h1><strong><em>📈 This Week's Coding Stats</strong></em></h1></center></summary>
+    <summary><h1><strong><em><center>📈 This Week's Coding Stats</center></strong></em></h1></summary>
 	<br><br>
 <!--START_SECTION:waka-->
+	    
 ![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
