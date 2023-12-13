@@ -128,7 +128,7 @@ Here are some ideas to get you started:
     <summary><h1><strong><em><center>📈 This Week's Coding Stats</center></strong></em></h1></summary>
 	<br><br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -197,6 +197,6 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2023 16:21:48 UTC
+ Last Updated on 13/12/2023 01:12:31 UTC
 <!--END_SECTION:waka-->
 </details>
