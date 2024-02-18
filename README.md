@@ -9,7 +9,14 @@
 <br><br><br>
 
 <p ><h1 align="left"><strong>💫 A B O U T &nbsp; M E</h1></strong></p>
+<br>
+<div align="right">
+
+![](https://visitcount.itsvg.in/api?id=ash-codes18&icon=1&color=10)
+
+</div>
 <br><br>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Ashmit;I'm+a+Developer+" alt="Typing SVG" /></a> </p>
 
@@ -22,10 +29,9 @@
 <img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; New technologies”. <br>
 <img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about "DSA”. 
 
-<br><br><br><br>
+<br><br>
 
 </div>
-<hr>
 
 </div>
 
@@ -67,7 +73,6 @@
 
 <br><br>
 
-<!-- # 📊 GitHub Stats: -->
 
 <p><h1><strong>📊 S T A T S</strong> </h1></p>
 <div align="center">
@@ -83,12 +88,10 @@
 <br>
 
 
-<p><h1 align="right"> <strong>🏆 G I T H U B &nbsp; T R O P H I E S</strong></h1>
+<p><h1 align="right"> <strong>🏆 T R O P H I E S</strong></h1>
 <br><br>
 
 ![](https://github-profile-trophy.vercel.app/?username=ash-codes18&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-![](https://visitcount.itsvg.in/api?id=ash-codes18&icon=1&color=10)
 
 
 <br>
@@ -114,7 +117,6 @@
    <summary><h1><strong><em>📈 M O R E &nbsp; S T A T S</strong></em></h1></summary>
 <br><br><br>
 
-<div align="center" >
 <a  href="https://github.com/ash-codes18">
 
 <img width= "30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ash-codes18&theme=dracula"/>
@@ -123,83 +125,16 @@
 </a>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ash-codes18&theme=dracula" >
 <br><br>
+</div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2044%20mins-blue)
+<br><br>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.4 MB Used in GitHub's Storage 
- > 
-> 🏆 223 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 59 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                335 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-🌆 Daytime                548 commits         ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-🌃 Evening                1105 commits        █████████████░░░░░░░░░░░░   52.69 % 
-🌙 Night                  109 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Tuesday                  280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Wednesday                268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Thursday                 189 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Friday                   265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Saturday                 318 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Sunday                   557 commits         ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    23 hrs 41 mins      █████████████████████░░░░   85.37 % 
-JavaScript               1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Python                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-C++                      30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-
-💻 Operating System: 
-Windows                  27 hrs              ████████████████████████░   97.34 % 
-Linux                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     13 repos            ████████░░░░░░░░░░░░░░░░░   30.95 % 
-Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-```
-
-
-
-
- Last Updated on 18/02/2024 08:01:49 UTC
+<br><br>
 <!--END_SECTION:waka-->
 
 </details>
 
-</div>
 
 
 
