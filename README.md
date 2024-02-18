@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
  
-<h1><em>Hi there </em><img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 /></h1>
+<h1><em>Hi there! </em><img src="https://slackmojis.com/emojis/8809-wave_hello/download" alt="" width=35 /></h1>
 <br><br><br>
 
 
@@ -10,8 +10,22 @@
 
 <p ><h1 align="left"><strong>💫 A B O U T &nbsp; M E</h1></strong></p>
 <br><br>
-<p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=false&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Ashmit;I'm+a+Developer+" alt="Typing SVG" /></a> </p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Ashmit;I'm+a+Developer+" alt="Typing SVG" /></a> </p>
+
+
+<div align="center">
+ <img width="15%" align="right" alt="Github Image" src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/linux_rounded.gif?raw=true"/>
+<p align="center">
+<br><br>
+<img alt="GIF" src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning Full Stack WebDev”.<br>
+<img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; New technologies”. <br>
+<img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about "DSA”. 
+
+<br><br><br><br>
+
+</div>
+<hr>
 
 </div>
 
@@ -70,24 +84,14 @@
 
 
 <p><h1 align="right"> <strong>🏆 G I T H U B &nbsp; T R O P H I E S</strong></h1>
-<br>
+<br><br>
 
 ![](https://github-profile-trophy.vercel.app/?username=ash-codes18&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ![](https://visitcount.itsvg.in/api?id=ash-codes18&icon=1&color=10)
 
-<br><br><br>
 
-<div align="center">
-
-<img alt="GIF" src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning Full Stack WebDev”. <img width="15%" align="right" alt="Github Image" src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/linux_rounded.gif?raw=true" /><br>
-<img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; New technologies”. <br>
-<img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about "DSA”. 
-<br><br><br><br>
-
-</div>
-
-<br> <br><br>
+<br>
 <p ><h1 align="left"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
 <br>
 <p align="left" >
@@ -108,7 +112,7 @@
 <div align="center">  
 <details>
    <summary><h1><strong><em>📈 M O R E &nbsp; S T A T S</strong></em></h1></summary>
-
+<br><br><br>
 
 <div align="center" >
 <a  href="https://github.com/ash-codes18">
