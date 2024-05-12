@@ -129,17 +129,15 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-943%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-944%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
- > 
-> 🏆 433 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -174,15 +172,14 @@ Sunday                   572 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    19 hrs 33 mins      ████████████████████░░░░░   80.88 % 
-JavaScript               2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-HTML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Java                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-TypeScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Other                    21 hrs 17 mins      █████████████████████░░░░   84.64 % 
+JavaScript               2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+HTML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+TypeScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Windows                  23 hrs 40 mins      ████████████████████████░   97.90 % 
-Linux                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Windows                  25 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -198,7 +195,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2024 16:20:28 UTC
+ Last Updated on 12/05/2024 01:17:50 UTC
 <!--END_SECTION:waka-->
 
 </div>
