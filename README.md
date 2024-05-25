@@ -129,7 +129,7 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-972%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -174,10 +174,10 @@ Sunday                   572 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    15 hrs 44 mins      █████████████████████████   100.00 % 
+Other                    19 hrs 58 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -193,7 +193,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2024 16:20:41 UTC
+ Last Updated on 25/05/2024 01:12:18 UTC
 <!--END_SECTION:waka-->
 
 </div>
