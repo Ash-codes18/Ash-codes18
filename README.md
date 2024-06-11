@@ -139,6 +139,8 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
+> 🏆 499 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 62 Public Repositories 
@@ -172,10 +174,10 @@ Sunday                   597 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 4 mins        █████████████████████████   100.00 % 
+Other                    10 hrs 24 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  10 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -191,7 +193,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2024 16:23:27 UTC
+ Last Updated on 11/06/2024 01:16:39 UTC
 <!--END_SECTION:waka-->
 
 </div>
