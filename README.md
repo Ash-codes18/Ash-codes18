@@ -102,7 +102,7 @@
 
 <img src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/head-phones.jpeg" align="left" width="445" height="450">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qgud5fpnqqswx4pfad4e032i7&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qgud5fpnqqswx4pfad4e032i7&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 <br><br><br>
