@@ -45,7 +45,7 @@
 
 <div align="right" width="50">
 
-<a href="https://leetcode.com/ash-codes18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ash-codes18" height="50" width="50" /></a>
+<a href="https://leetcode.com/u/ashmit_mehta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ash-codes18" height="50" width="50" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ashmit_mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Ash-codes18" height="50" width="50" /></a>
 <a href="https://www.hackerrank.com/profile/rmehta_rahul2" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-3521478-2944922.png?f=webp&w=256" alt="Ash-codes18" height="50" width="50" /></a>
 <a href="https://www.codingninjas.com/codestudio/profile/ashmitmehta" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIIfWq3gQ_njMihHEN9FAPRRiPqftzlfKJjg&usqp=CAU" alt="iamtanmayag" height="50" width="50" /></a>
