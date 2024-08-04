@@ -131,13 +131,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C272%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,240 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -172,11 +174,11 @@ Sunday                   684 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    35 hrs 19 mins      █████████████████████████   98.79 % 
-C++                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Other                    36 hrs 14 mins      █████████████████████████   98.82 % 
+C++                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 💻 Operating System: 
-Windows                  35 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  36 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -192,7 +194,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2024 16:24:06 UTC
+ Last Updated on 04/08/2024 01:25:14 UTC
 <!--END_SECTION:waka-->
 
 </div>
