@@ -131,13 +131,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C327%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,355 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -172,13 +174,13 @@ Sunday                   723 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    9 hrs 59 mins       █████████████████████░░░░   85.01 % 
-JavaScript               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-PHP                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-C++                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Other                    12 hrs 33 mins      ██████████████████████░░░   87.72 % 
+JavaScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+PHP                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+C++                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Windows                  11 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -194,7 +196,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2024 16:25:01 UTC
+ Last Updated on 24/08/2024 01:20:10 UTC
 <!--END_SECTION:waka-->
 
 </div>
