@@ -129,9 +129,9 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C371%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C374%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
@@ -139,11 +139,11 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,402 Contributions in the Year 2024
+> 🏆 1,403 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 63 Public Repositories 
+> 📜 64 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
@@ -174,14 +174,14 @@ Sunday                   723 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    23 hrs 40 mins      ███████████████████████░░   93.40 % 
-JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-PHP                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Other                    26 hrs 42 mins      ███████████████████████░░   91.37 % 
+JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+C++                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+CSS                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+PHP                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Windows                  25 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -197,7 +197,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2024 16:25:53 UTC
+ Last Updated on 06/09/2024 01:24:44 UTC
 <!--END_SECTION:waka-->
 
 </div>
