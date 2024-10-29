@@ -131,15 +131,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C429%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
- > 
-> 🏆 1,542 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -197,7 +195,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2024 08:28:02 UTC
+ Last Updated on 29/10/2024 16:27:52 UTC
 <!--END_SECTION:waka-->
 
 </div>
