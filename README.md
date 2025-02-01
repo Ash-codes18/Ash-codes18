@@ -139,8 +139,6 @@
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 67 Public Repositories 
@@ -174,10 +172,10 @@ Sunday                   752 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    32 mins             █████████████████████████   100.00 % 
+Other                    1 hr 45 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -193,7 +191,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2025 16:25:30 UTC
+ Last Updated on 01/02/2025 01:39:26 UTC
 <!--END_SECTION:waka-->
 
 </div>
