@@ -174,10 +174,10 @@ Sunday                   761 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -193,7 +193,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2025 08:33:15 UTC
+ Last Updated on 05/06/2025 16:30:49 UTC
 <!--END_SECTION:waka-->
 
 </div>
