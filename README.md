@@ -131,7 +131,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C548%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
@@ -183,17 +183,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-C++                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
 
 
- Last Updated on 07/10/2025 16:29:20 UTC
+ Last Updated on 08/10/2025 01:43:03 UTC
 <!--END_SECTION:waka-->
 
 </div>
