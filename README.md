@@ -129,7 +129,9 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C549%20hrs%2052%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
@@ -172,10 +174,14 @@ Sunday                   761 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     30 mins             █████████████░░░░░░░░░░░░   52.23 % 
+YAML                     18 mins             ████████░░░░░░░░░░░░░░░░░   30.91 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -191,7 +197,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 01:55:15 UTC
+ Last Updated on 02/11/2025 08:26:52 UTC
 <!--END_SECTION:waka-->
 
 </div>
