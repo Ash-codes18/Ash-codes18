@@ -129,10 +129,6 @@
 <div align="left">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%2049%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.78%20million%20lines%20of%20code-blue?style=flat)
@@ -149,45 +145,6 @@
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                942 commits         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-🌆 Daytime                1026 commits        ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-🌃 Evening                1600 commits        ███████████░░░░░░░░░░░░░░   42.54 % 
-🌙 Night                  193 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Tuesday                  562 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Wednesday                466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Thursday                 443 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Friday                   469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Saturday                 593 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Sunday                   774 commits         █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -201,7 +158,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 10:44:24 UTC
+ Last Updated on 07/08/2026 02:51:03 UTC
 <!--END_SECTION:waka-->
 
 </div>
