@@ -133,7 +133,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.78%20million%20lines%20of%20code-blue?style=flat)
 
@@ -176,10 +176,10 @@ Sunday                   774 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -201,7 +201,7 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 19:48:58 UTC
+ Last Updated on 01/11/2026 05:09:11 UTC
 <!--END_SECTION:waka-->
 
 </div>
